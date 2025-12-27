@@ -1,0 +1,30 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Віртуальне середовище
+.venv/
+venv/
+
+# Python cache файли
+__pycache__/
+*.py[cod]
+
+# Файли середовища IDE
+*.idea/
+*.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Логи та тимчасові файли
+*.log
+*.tmp
+*.swp
+
+# OS файли
+.DS_Store
+Thumbs.db
