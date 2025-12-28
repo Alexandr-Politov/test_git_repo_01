@@ -1,2 +1,2 @@
 This is a test file.git
-Changes made in branch "feature"
+Another changes commited in branch "feature"
