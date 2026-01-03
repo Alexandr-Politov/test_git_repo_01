@@ -3,3 +3,4 @@ Another changes commited in branch "feature"
 One more change to "feature"-branch.
 Added online from GitHub.
 Lockal changes
+Another online change from GitHub
